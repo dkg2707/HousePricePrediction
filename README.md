@@ -1,6 +1,6 @@
 # HousePricePrediction
 
-Performed 
+Performed:
 
 Exploratory data analysis(EDA) 
 
